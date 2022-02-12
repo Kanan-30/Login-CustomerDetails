@@ -79,8 +79,8 @@
             .table-container 
             {
             position: relative;
-            max-height:  700px;
-            width: 1500px;
+            max-height:  500px;
+            width: 1300px;
             overflow: scroll;
             }
 
